@@ -1,4 +1,0 @@
-/home/chere/Academics/Hands_on_perception/Labs/lab5/augumented _reality/build/CMakeFiles/rebuild_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab5/augumented _reality/build/CMakeFiles/edit_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab5/augumented _reality/build/CMakeFiles/draw_cube.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab5/augumented _reality/build/CMakeFiles/pose_estimation.dir

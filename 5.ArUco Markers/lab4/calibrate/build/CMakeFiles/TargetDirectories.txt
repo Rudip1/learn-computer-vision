@@ -1,3 +1,0 @@
-/home/chere/Academics/Hands_on_perception/Labs/Lab4/calibrate/build/CMakeFiles/rebuild_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/Lab4/calibrate/build/CMakeFiles/edit_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/Lab4/calibrate/build/CMakeFiles/calibrate_camera.dir

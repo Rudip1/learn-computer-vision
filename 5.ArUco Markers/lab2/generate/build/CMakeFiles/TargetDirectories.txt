@@ -1,4 +1,0 @@
-/home/chere/Academics/Hands_on_perception/Labs/Lab2/generate/build/CMakeFiles/rebuild_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/Lab2/generate/build/CMakeFiles/edit_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/Lab2/generate/build/CMakeFiles/generate_board.dir
-/home/chere/Academics/Hands_on_perception/Labs/Lab2/generate/build/CMakeFiles/generate_marker.dir

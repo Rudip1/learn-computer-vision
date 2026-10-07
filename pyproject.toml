@@ -1,0 +1,37 @@
+[build-system]
+requires = ["scikit-build-core>=0.10", "pybind11>=2.12"]
+build-backend = "scikit_build_core.build"
+
+[project]
+name = "mvg"
+version = "0.1.0"
+description = "Multi-view geometry from the camera model to visual odometry: C++ core with Python bindings"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+notebooks = [
+  "opencv-python-headless>=4.8",
+  "scipy>=1.10",
+  "nbformat>=5.9",
+  "nbclient>=0.9",
+  "ipykernel>=6.25",
+]
+
+[project.urls]
+Homepage = "https://github.com/Rudip1/learn-computer-vision"
+
+[tool.scikit-build]
+minimum-version = "0.10"
+cmake.version = ">=3.20"
+build-dir = "build/{wheel_tag}"
+wheel.packages = ["python/mvg"]
+wheel.exclude = ["mvg/_bindings"]
+sdist.exclude = ["build"]
+
+[tool.scikit-build.cmake.define]
+MVG_BUILD_PYTHON = "ON"
+MVG_BUILD_TESTS = "OFF"
+MVG_BUILD_EXAMPLES = "OFF"

@@ -1,3 +1,0 @@
-/home/chere/Academics/Hands_on_perception/Labs/lab3/detec/build/CMakeFiles/edit_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab3/detec/build/CMakeFiles/rebuild_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab3/detec/build/CMakeFiles/detect_aruco.dir

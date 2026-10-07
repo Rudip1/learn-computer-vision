@@ -1,3 +1,0 @@
-/home/chere/Academics/Hands_on_perception/Labs/lab1/example/build/CMakeFiles/rebuild_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab1/example/build/CMakeFiles/edit_cache.dir
-/home/chere/Academics/Hands_on_perception/Labs/lab1/example/build/CMakeFiles/example.dir

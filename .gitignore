@@ -1,0 +1,39 @@
+# Build output
+build/
+_skbuild/
+dist/
+*.egg-info/
+*.so
+*.o
+*.a
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Data fetched by tools/get_data.sh or produced by examples
+data/downloads/
+*.ppm
+*.pgm
+
+# Editors, OS and MATLAB leftovers
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+desktop.ini
+Thumbs.db
+*.asv
+*.mlx
+
+# Archives of code
+*.zip
+*.tar.gz
